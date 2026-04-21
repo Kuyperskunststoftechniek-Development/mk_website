@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "siteName": "M&K Kunststoffen",
+    "tagline": "B2B wholesale plastics — HDPE and PP, sharp pricing."
+  },
+  "nav": {
+    "materials": "Materials",
+    "products": "Products",
+    "quote": "Request quote",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "cta": {
+    "requestQuote": "Request quote",
+    "viewProducts": "View products",
+    "exploreMaterials": "Explore materials",
+    "getInTouch": "Get in touch",
+    "readMore": "Read more"
+  },
+  "home": {
+    "eyebrow": "Plastics wholesale · B2B",
+    "heroTitle": "Sharp pricing.\nSame quality.",
+    "heroLead": "Wholesale in plastic sheet, tube and rod. Focus on HDPE and PP. For tank builders, machine shops, food industry and marine.",
+    "marqueeItems": "HDPE · PP · PVC · PMMA · POM · PC · PETG · ABS · PP-H",
+    "usps": {
+      "title": "Why M&K",
+      "lead": "Because quality and price don't have to fight."
+    },
+    "usp1Label": "m² in stock",
+    "usp1Desc": "Direct from our own warehouse.",
+    "usp2Label": "hour turnaround",
+    "usp2Desc": "For standard sheet sizes — usually faster.",
+    "usp3Label": "% sharper",
+    "usp3Desc": "Average price advantage vs. large competitors.",
+    "usp4Label": "material groups",
+    "usp4Desc": "All common engineering plastics in stock.",
+    "materialsEyebrow": "Materials",
+    "materialsTitle": "Engineering plastics\nfor industrial applications",
+    "materialsLead": "HDPE and PP are our specialty — chemically resistant, food-grade, light and strong. Plus all other common plastics, available fast.",
+    "ctaBlockTitle": "Ready for a sharp quote?",
+    "ctaBlockLead": "Request a no-strings quote. We reply within one business day with a concrete price."
+  },
+  "materials": {
+    "pageTitle": "Materials",
+    "pageLead": "Our stock of engineering plastics. Click through for properties, applications and available variants.",
+    "properties": "Properties",
+    "applications": "Applications",
+    "browseProducts": "Browse {name} products"
+  },
+  "products": {
+    "pageTitle": "Products",
+    "pageLead": "All available sheet, tube and rod materials in stock. Filter by material, form, thickness and color.",
+    "filters": {
+      "all": "All",
+      "material": "Material",
+      "form": "Form",
+      "thickness": "Thickness",
+      "color": "Color",
+      "reset": "Reset filters",
+      "results": "results"
+    },
+    "empty": "No products match these filters.",
+    "specs": "Specifications",
+    "dimensions": "Available sizes",
+    "price": "Price on request",
+    "pricePerKgLabel": "Price per kg",
+    "pricePerSheetLabel": "Price per sheet",
+    "exclVat": "excl. VAT",
+    "inclVat": "incl. VAT",
+    "selectSize": "Choose sheet size",
+    "inStock": "in stock",
+    "fromPrice": "from",
+    "requestQuoteForThis": "Request a quote for this item"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is still empty.",
+    "emptyAction": "View products",
+    "addToCart": "Add to cart",
+    "added": "Added",
+    "remove": "Remove",
+    "lineTotal": "Total",
+    "subtotal": "Subtotal",
+    "btw": "VAT (21%)",
+    "totalIncl": "Total incl. VAT",
+    "totalWeight": "Total weight",
+    "quantity": "Quantity",
+    "itemsInCart": "{count} item | {count} items",
+    "checkout": "Checkout on invoice",
+    "continueShopping": "Continue shopping",
+    "perSheet": "per sheet"
+  },
+  "checkout": {
+    "pageTitle": "Checkout on invoice",
+    "pageLead": "Fill in your business details. You'll receive an order confirmation by email, followed by the invoice with payment terms.",
+    "companyDetails": "Company details",
+    "contactDetails": "Contact person",
+    "delivery": "Delivery address",
+    "invoice": "Billing address",
+    "sameAsDelivery": "Same as delivery address",
+    "differentInvoice": "Different billing address",
+    "street": "Street + number",
+    "postalCode": "Postal code",
+    "city": "City",
+    "country": "Country",
+    "kvk": "Chamber of Commerce",
+    "vatNumber": "VAT number",
+    "poNumber": "PO number (optional)",
+    "review": "Order review",
+    "submitOrder": "Place order",
+    "successTitle": "Thanks for your order!",
+    "successLead": "Your order confirmation is on the way. The invoice follows within one business day.",
+    "backToProducts": "Back to products"
+  },
+  "forms": {
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Notes / message",
+    "product": "Product",
+    "dimensions": "Dimensions",
+    "quantity": "Quantity",
+    "material": "Material",
+    "form": "Form",
+    "thickness": "Thickness (mm)",
+    "color": "Color",
+    "privacy": "I agree to the {link}.",
+    "privacyLink": "privacy policy",
+    "submit": "Send request",
+    "submitting": "Sending…",
+    "success": "Thanks! We'll contact you within one business day.",
+    "error": "Something went wrong. Try again later or email info{'@'}mkkunststoffen.example directly.",
+    "addRow": "Add row",
+    "removeRow": "Remove row",
+    "required": "Required field",
+    "invalidEmail": "Invalid email address"
+  },
+  "quote": {
+    "pageTitle": "Bulk quote request",
+    "pageLead": "Add as many rows as you need. We'll reply within one business day with a concrete quote."
+  },
+  "about": {
+    "pageTitle": "About M&K",
+    "pageLead": "A fresh player with experienced people — founded to bring fair pricing back to the market.",
+    "storyTitle": "Why we exist",
+    "storyBody": "The plastics sheet market has been in flux. Prices went up, quality stayed the same. We rebuilt our supply chain — direct supplier contacts, lean overhead — and pass that pricing advantage to you."
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "pageLead": "Tell us how we can help. We'll call or email back.",
+    "visitTitle": "Visit & warehouse",
+    "callTitle": "Call us"
+  },
+  "footer": {
+    "tagline": "Wholesaler of industrial plastics. Focused on HDPE and PP — same quality, sharper pricing.",
+    "explore": "Explore",
+    "reachUs": "Reach us",
+    "placeholderAddress": "Address to follow",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions"
+  },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundLead": "The page you're looking for doesn't exist.",
+    "backHome": "Back to home"
+  }
+}

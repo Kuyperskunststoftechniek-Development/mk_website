@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "siteName": "M&K Kunststoffen",
+    "tagline": "B2B groothandel kunststof — HDPE en PP, scherp geprijsd."
+  },
+  "nav": {
+    "materials": "Materialen",
+    "products": "Producten",
+    "quote": "Offerte",
+    "about": "Over ons",
+    "contact": "Contact",
+    "cart": "Winkelmandje",
+    "open": "Menu openen",
+    "close": "Menu sluiten"
+  },
+  "cta": {
+    "requestQuote": "Offerte aanvragen",
+    "viewProducts": "Bekijk producten",
+    "exploreMaterials": "Ontdek materialen",
+    "getInTouch": "Neem contact op",
+    "readMore": "Lees meer"
+  },
+  "home": {
+    "eyebrow": "Kunststof groothandel · B2B",
+    "heroTitle": "Scherp geprijsd.\nDezelfde kwaliteit.",
+    "heroLead": "Groothandel in kunststof plaat, buis en staf. Focus op HDPE en PP. Voor tankbouw, machinebouw, voedingsmiddelen en scheepsbouw.",
+    "marqueeItems": "HDPE · PP · PVC · PMMA · POM · PC · PETG · ABS · PP-H",
+    "usps": {
+      "title": "Waarom M&K",
+      "lead": "Omdat kwaliteit en prijs niet hoeven te botsen."
+    },
+    "usp1Label": "m² op voorraad",
+    "usp1Desc": "Direct leverbaar uit eigen magazijn.",
+    "usp2Label": "uur doorlooptijd",
+    "usp2Desc": "Voor standaard plaatmaten — meestal sneller.",
+    "usp3Label": "% scherper",
+    "usp3Desc": "Gemiddelde prijsvoordeel t.o.v. grote concurrenten.",
+    "usp4Label": "materiaalgroepen",
+    "usp4Desc": "Alle gangbare technische kunststoffen op voorraad.",
+    "materialsEyebrow": "Materialen",
+    "materialsTitle": "Technische kunststoffen\nvoor industriële toepassingen",
+    "materialsLead": "HDPE en PP zijn onze specialiteit — chemisch bestendig, FDA-geschikt, licht en sterk. Daarnaast alle andere gangbare kunststoffen, snel leverbaar.",
+    "ctaBlockTitle": "Klaar voor een scherpe offerte?",
+    "ctaBlockLead": "Vraag vrijblijvend een offerte aan. Wij reageren binnen één werkdag met een concrete prijs."
+  },
+  "materials": {
+    "pageTitle": "Materialen",
+    "pageLead": "Onze voorraad aan technische kunststoffen. Klik door voor eigenschappen, toepassingen en beschikbare uitvoeringen.",
+    "properties": "Eigenschappen",
+    "applications": "Toepassingen",
+    "browseProducts": "Bekijk {name} producten"
+  },
+  "products": {
+    "pageTitle": "Producten",
+    "pageLead": "Alle beschikbare plaat-, buis- en stafmaterialen op voorraad. Filter op materiaal, vorm, dikte en kleur.",
+    "filters": {
+      "all": "Alle",
+      "material": "Materiaal",
+      "form": "Vorm",
+      "thickness": "Dikte",
+      "color": "Kleur",
+      "reset": "Reset filters",
+      "results": "resultaten"
+    },
+    "empty": "Geen producten gevonden met deze filters.",
+    "specs": "Specificaties",
+    "dimensions": "Beschikbare maten",
+    "price": "Prijs op aanvraag",
+    "pricePerKgLabel": "Prijs per kg",
+    "pricePerSheetLabel": "Prijs per plaat",
+    "exclVat": "excl. BTW",
+    "inclVat": "incl. BTW",
+    "selectSize": "Kies plaatmaat",
+    "inStock": "op voorraad",
+    "fromPrice": "vanaf",
+    "requestQuoteForThis": "Vraag offerte aan voor dit artikel"
+  },
+  "cart": {
+    "title": "Winkelmandje",
+    "empty": "Je winkelmandje is nog leeg.",
+    "emptyAction": "Bekijk producten",
+    "addToCart": "In winkelmandje",
+    "added": "Toegevoegd",
+    "remove": "Verwijder",
+    "lineTotal": "Totaal",
+    "subtotal": "Subtotaal",
+    "btw": "BTW (21%)",
+    "totalIncl": "Totaal incl. BTW",
+    "totalWeight": "Totaal gewicht",
+    "quantity": "Aantal",
+    "itemsInCart": "{count} artikel | {count} artikelen",
+    "checkout": "Afrekenen op factuur",
+    "continueShopping": "Verder winkelen",
+    "perSheet": "per plaat"
+  },
+  "checkout": {
+    "pageTitle": "Afrekenen op factuur",
+    "pageLead": "Vul je bedrijfsgegevens in. Je ontvangt een orderbevestiging per e-mail, gevolgd door de factuur met betaaltermijn.",
+    "companyDetails": "Bedrijfsgegevens",
+    "contactDetails": "Contactpersoon",
+    "delivery": "Bezorgadres",
+    "invoice": "Factuuradres",
+    "sameAsDelivery": "Gelijk aan bezorgadres",
+    "differentInvoice": "Ander factuuradres",
+    "street": "Straat + huisnr.",
+    "postalCode": "Postcode",
+    "city": "Plaats",
+    "country": "Land",
+    "kvk": "KvK-nummer",
+    "vatNumber": "BTW-nummer",
+    "poNumber": "Inkoopordernummer (optioneel)",
+    "review": "Orderoverzicht",
+    "submitOrder": "Bestelling plaatsen",
+    "successTitle": "Bedankt voor je bestelling!",
+    "successLead": "Je orderbevestiging is onderweg. De factuur volgt binnen één werkdag.",
+    "backToProducts": "Terug naar producten"
+  },
+  "forms": {
+    "name": "Naam",
+    "company": "Bedrijfsnaam",
+    "email": "E-mailadres",
+    "phone": "Telefoon",
+    "message": "Toelichting / bericht",
+    "product": "Product",
+    "dimensions": "Afmetingen",
+    "quantity": "Aantal",
+    "material": "Materiaal",
+    "form": "Vorm",
+    "thickness": "Dikte (mm)",
+    "color": "Kleur",
+    "privacy": "Ik ga akkoord met het {link}.",
+    "privacyLink": "privacybeleid",
+    "submit": "Verstuur aanvraag",
+    "submitting": "Versturen…",
+    "success": "Bedankt! We nemen binnen één werkdag contact met je op.",
+    "error": "Er ging iets mis. Probeer het later nogmaals of mail direct naar info{'@'}mkkunststoffen.example.",
+    "addRow": "Regel toevoegen",
+    "removeRow": "Regel verwijderen",
+    "required": "Verplicht veld",
+    "invalidEmail": "Ongeldig e-mailadres"
+  },
+  "quote": {
+    "pageTitle": "Bulk-offerte aanvragen",
+    "pageLead": "Voeg zoveel regels toe als nodig. Wij stellen binnen één werkdag een concrete offerte op."
+  },
+  "about": {
+    "pageTitle": "Over M&K",
+    "pageLead": "Een verse speler met ervaren mensen — opgericht om de markt een eerlijker prijs te bieden.",
+    "storyTitle": "Waarom wij bestaan",
+    "storyBody": "De markt voor kunststof platen is de afgelopen jaren sterk in beweging. Prijzen stegen, maar de kwaliteit bleef gelijk. Wij hebben onze supplychain opnieuw ingericht, directe leverancierscontacten, slanke overhead — en geven dat prijsvoordeel door aan jou."
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "pageLead": "Laat ons weten waar we mee kunnen helpen. Wij bellen of mailen terug.",
+    "visitTitle": "Bezoek & voorraad",
+    "callTitle": "Telefonisch"
+  },
+  "footer": {
+    "tagline": "Groothandel voor industriële kunststoffen. Focus op HDPE en PP — zelfde kwaliteit, scherpere prijs.",
+    "explore": "Ontdek",
+    "reachUs": "Bereik ons",
+    "placeholderAddress": "Adres volgt",
+    "rights": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden"
+  },
+  "errors": {
+    "notFoundTitle": "Pagina niet gevonden",
+    "notFoundLead": "De pagina die je zoekt bestaat niet (meer).",
+    "backHome": "Terug naar home"
+  }
+}
