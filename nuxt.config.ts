@@ -96,6 +96,7 @@ export default defineNuxtConfig({
     resendApiKey: '', // NUXT_RESEND_API_KEY
     leadRecipient: '', // NUXT_LEAD_RECIPIENT
     leadFromAddress: 'M&K Kunststoffen <no-reply@mkkunststoffen.example>', // NUXT_LEAD_FROM_ADDRESS
+    stockSheetUrl: '', // NUXT_STOCK_SHEET_URL — published Google Sheet CSV URL
     public: {
       companyName: 'M&K Kunststoffen',
     },

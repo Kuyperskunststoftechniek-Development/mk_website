@@ -14,7 +14,7 @@ useSeoMeta({
   <div>
     <HomeHeroKinetic />
     <HomeUspStrip />
-    <HomeMaterialShowcase />
+    <HomeStockHighlight />
     <HomeCtaBlock />
   </div>
 </template>

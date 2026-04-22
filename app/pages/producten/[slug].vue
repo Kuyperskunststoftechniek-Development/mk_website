@@ -14,8 +14,15 @@ if (!product.value) {
 
 const { calcWeightKg, calcSheetPrice, formatEur, formatWeight } = usePricing()
 const cart = useCart()
+const { getStock } = await useStock()
 
 const tintVisual = computed(() => useTintContrast(product.value?.accentHex as string | undefined))
+
+function variantStock(variantSize: string, fallback?: number) {
+  if (!product.value) return fallback ?? 0
+  const live = getStock(product.value.slug as string, variantSize)
+  return live ?? fallback ?? 0
+}
 
 const variants = computed(() => (product.value?.variants ?? []) as any[])
 const selectedIdx = ref(0)
@@ -147,8 +154,8 @@ useSeoMeta({
                   {{ formatWeight(calcWeightKg(v.widthMm, v.heightMm, product.thickness, product.density), locale as 'nl' | 'en') }}
                   · {{ formatEur(calcSheetPrice(product as any, v), locale as 'nl' | 'en') }}
                 </div>
-                <div v-if="v.stock != null" class="mt-1 text-xs text-textc-dim">
-                  {{ v.stock }} {{ t('products.inStock') }}
+                <div class="mt-1 text-xs text-textc-dim">
+                  {{ variantStock(v.size, v.stock) }} {{ t('products.inStock') }}
                 </div>
               </button>
             </div>
