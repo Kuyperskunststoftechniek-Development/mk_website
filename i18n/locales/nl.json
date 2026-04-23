@@ -53,6 +53,9 @@
     "stockInStock": "Op voorraad",
     "stockBrowse": "Bekijk {code} platen",
     "stockFootnote": "Voorraadaantallen worden regelmatig bijgewerkt. Voor een exacte beschikbaarheid op dat moment, vraag een offerte aan.",
+    "orderDirectEyebrow": "Bestel direct uit voorraad",
+    "orderDirectSub": "Direct leverbaar uit eigen magazijn",
+    "orderDirectCta": "Bestel {code}",
     "ctaBlockTitle": "Klaar voor een scherpe offerte?",
     "ctaBlockLead": "Vraag vrijblijvend een offerte aan. Wij reageren binnen één werkdag met een concrete prijs."
   },

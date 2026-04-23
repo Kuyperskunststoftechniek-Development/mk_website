@@ -53,6 +53,9 @@
     "stockInStock": "In stock",
     "stockBrowse": "Browse {code} sheets",
     "stockFootnote": "Stock levels are updated regularly. For exact availability at the moment, please request a quote.",
+    "orderDirectEyebrow": "Order direct from stock",
+    "orderDirectSub": "Direct delivery from our own warehouse",
+    "orderDirectCta": "Order {code}",
     "ctaBlockTitle": "Ready for a sharp quote?",
     "ctaBlockLead": "Request a no-strings quote. We reply within one business day with a concrete price."
   },

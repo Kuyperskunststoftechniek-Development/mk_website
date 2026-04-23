@@ -2,9 +2,6 @@
 const { t } = useI18n()
 const localePath = useLocalePath()
 
-const marqueeItems = computed(() =>
-  t('home.marqueeItems').split('·').map(s => s.trim()).filter(Boolean),
-)
 const heroLines = computed(() => t('home.heroTitle').split('\n'))
 </script>
 
@@ -43,20 +40,6 @@ const heroLines = computed(() => t('home.heroTitle').split('\n'))
           </div>
         </MotionFadeInOnScroll>
       </div>
-    </div>
-
-    <!-- Bottom marquee: materiaal-namen -->
-    <div class="hero-marquee mt-24 border-y border-line py-6">
-      <MotionMarquee gap="3.5rem">
-        <div
-          v-for="(item, i) in marqueeItems.concat(marqueeItems)"
-          :key="`m-${i}`"
-          class="flex items-center gap-6 font-display text-4xl sm:text-5xl font-bold text-textc-muted"
-        >
-          <Icon name="lucide:dot" class="h-5 w-5 text-accent" />
-          <span>{{ item }}</span>
-        </div>
-      </MotionMarquee>
     </div>
 
     <!-- Floating accent (decor) -->

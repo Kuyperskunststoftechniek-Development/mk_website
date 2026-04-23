@@ -13,8 +13,8 @@ useSeoMeta({
 <template>
   <div>
     <HomeHeroKinetic />
-    <HomeUspStrip />
     <HomeStockHighlight />
+    <HomeUspStrip />
     <HomeCtaBlock />
   </div>
 </template>

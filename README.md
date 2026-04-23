@@ -77,6 +77,9 @@ De website toont voorraadcijfers op de homepage (HDPE/PP totals) en op elke prod
 2. **Google Sheets** (aanbevolen) — live voorraad zonder site te redeployen.
 3. **Python-integratie** — Python-script dat de Sheet bijwerkt vanuit je ERP/Excel.
 
+Volledige handleiding met stap-voor-stap setup, Python-voorbeelden en troubleshooting:
+**[docs/voorraad-google-sheets.md](docs/voorraad-google-sheets.md)**
+
 ### Sheet opzetten
 
 1. Maak een nieuwe Google Sheet met deze kolommen (eerste rij = headers):
